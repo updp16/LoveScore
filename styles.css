@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-family: "Montserrat";
+    margin: 0;
+}
+
+h3{
+    color: #8f8f8f;
+}
+
+h1{
+    
+    display: inline-block;
+    font-size: 3rem;
+}
+
+.container-fluid{
+    background-color: #FAD6A5;
+    padding: 1% 15% 4%;
+}
+.heading{
+    font-family: Itim;
+    font-size: 5rem;
+    color: #D61355;
+}
+.greeting{
+    display: inline-block;
+    font-size: 3rem;
+    margin-left: 2%;
+}
+
+.text-box{
+    display: inline-block;
+    padding: 3%;
+}
+
+.btn{
+    display: block;
+    margin: 2% auto;
+}
+
+
+.output{
+    margin-top: 3%;
+    font-size: 3rem;
+}
